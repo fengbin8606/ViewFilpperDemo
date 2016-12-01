@@ -1,0 +1,20 @@
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="led_red">#ff0000</color>
+    <color name="led_yellow">#FFB90F</color>
+    <color name="led_blue">#00B2EE</color>
+    <color name="led_green">#99cc33</color>
+    <color name="led_gray">#cc7D7D7D</color>
+    <color name="griditems_bg">#ffe8ecef</color>
+    <color name="commo_text_color">#ff333333</color>
+    <color name="line">#ffd3dde6</color>
+    <color name="status_bar_color">#ffffffff</color>
+     <color name="color_dialog_bg">#FFFFFFFF</color>
+    <color name="color_dialog_content_text">#8a000000</color>
+    <color name="dialog_text_red">#FA7134</color>
+    <color name="black">#000000</color>
+    <color name="text_blue_2">#355876</color>
+    <color name="text_blue">#3679A4</color>
+
+</resources>
